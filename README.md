@@ -4,8 +4,10 @@ This repository contains a collection of beginner-friendly C programming project
 
 ## 📂 Projects Done
 
-- 🧮 1 : Calculator (Operators)
-- 🗓️ 2 : Calendar (Matrix)
+- 🧮 1 : Calculator
+- 🗓️ 2 : Calendar
+- 🏦 3 : Mini Bank
+- 🏫 4 : Students Management
 
 ## ⚙️ Usage
 
