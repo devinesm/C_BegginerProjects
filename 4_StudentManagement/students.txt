@@ -1,0 +1,5 @@
+12345 JohnDoe 21 ComputerScience
+67890 JaneDoe 22 Mathematics
+54321 MikeSmith 20 ElectricalEngineering
+98765 SarahJohnson 23 Biology
+13579 AlexBrown 19 Physics
