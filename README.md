@@ -9,6 +9,7 @@ This repository contains a collection of beginner-friendly C programming project
 - 🏦 3 : Mini Bank
 - 🏫 4 : Students Management
 - 🤝 5 : Unit & Conversion
+- 🖥️ 6 : Virtual Workplace
 
 ## ⚙️ Usage
 
